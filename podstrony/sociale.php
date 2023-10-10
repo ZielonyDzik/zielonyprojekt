@@ -15,8 +15,7 @@
                     <li>Link do kanału - <a href="https://www.youtube.com/@ZielonyDzik">https://www.youtube.com/@ZielonyDzik</a></li><br>
 
                     <li>Zielony Dzik to mój główny kanał, na którym pojawiają się filmy i transmisje na żywo - głównie z gier [ale nie tylko] :D</li>
-</ul>
-</p>
+</p></ul>
                 <p class="p_text">
                 <ul style="text-align:left;">
                 <p class="text_title" style="margin-bottom: 20px;">📸 Social Media:</p>
@@ -24,8 +23,7 @@
                 <li>TikTok - "zielonydzikyt" - <a href="https://www.tiktok.com/@zielonydzikyt">https://www.tiktok.com/@zielonydzikyt</a></li><br>
                 <li>Twitch - "zielonydziks" - <a href="https://www.twitch.tv/zielonydziks">https://www.twitch.tv/zielonydziks</a></li><br>
                 <li>Instagram - "zielonydzik" - <a href="https://www.instagram.com/zielonydzik/">https://www.instagram.com/zielonydzik/</a></li><br>
-</ul>
-            </p>
+</p></ul>
                 </section>
                     </td>
             </table>
