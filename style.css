@@ -15,6 +15,7 @@ body{
     position: absolute; 
     text-align: center; 
     width: 100%;
+    
 }
 
 .bg_section{
@@ -33,6 +34,7 @@ body{
     box-shadow: 0px 0px 73px 24px rgba(0, 0, 0, 1);
 
     filter: brightness(0.9);
+    
 }
 
 .default_section{
@@ -52,6 +54,7 @@ body{
   padding: 20px;
   text-align: center;
   backdrop-filter: blur(10px);
+  
 }
 
 .page_name{
@@ -204,4 +207,69 @@ a:hover{
 
 .author2{
     color:rgb(255, 160, 247)
+}
+
+.blok_g{
+    display: inline-block; 
+    line-height: 1;
+}
+
+.fieldset{
+    border: 2px solid rgb(158, 158, 158); 
+    margin: 1em auto;
+}
+
+.legenda{
+    width: 90%; 
+    padding: 0;
+}
+
+.tytul{
+    float: left; 
+    padding: 0 20px; 
+    font-size: 32pt;
+}
+
+.line1{
+    float: left; 
+    height: 2px; 
+    background-color: rgb(158, 158, 158); 
+    margin-top: 1.4rem;
+}
+
+.line2{
+    float: left; 
+    height: 2px; 
+    background-color: rgb(158, 158, 158); 
+    width: 4rem;  
+    margin-top: 1.4rem;
+}
+
+.line3{
+    float: left; 
+    height: 2px; 
+    background-color: rgb(158, 158, 158); 
+    width: 4rem;  
+    margin-top: 1.4rem;
+}
+
+.href_dzik{
+    float: left; 
+    padding: 0 5px; 
+    margin-top: 9px; 
+    font-size: 16pt;
+}
+
+.href_fiveways{
+    float: left; 
+    padding: 0 5px; 
+    margin-top: 9px; 
+    font-size: 16pt;
+}
+
+.href_tworcy{
+    float: left; 
+    padding: 0 5px; 
+    margin-top: 9px; 
+    font-size: 16pt;
 }
