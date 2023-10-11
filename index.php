@@ -38,16 +38,16 @@ $page = $_GET['page'] ?? 'dzik';
         </section>
             <section class="default_section">
           
-            <fieldset style="border: 2px solid rgb(158, 158, 158); margin: 1em auto;">
-                <legend style="width: 90%; padding: 0;">
-                    <div style="display: inline-block; line-height: 1;">
-                        <div style="float: left; padding: 0 20px; font-size: 32pt;"><a href=""><?php echo $title;?></a></div>
-                        <div style="float: left; height: 2px; background-color: rgb(158, 158, 158); <?php echo $line;?>  margin-top: 1.4rem;"></div>
-                        <div style="float: left; padding: 0 5px; margin-top: 9px; font-size: 16pt;"><a href="/?&page=dzik">Zielony Dzik</a></div>
-                        <div style="float: left; height: 2px; background-color: rgb(158, 158, 158); width: 4rem;  margin-top: 1.4rem;"></div>
-                        <div style="float: left; padding: 0 5px; margin-top: 9px; font-size: 16pt"><a href="/?&page=fiveways">FiveWays RP</a></div>					
-                        <div style="float: left; height: 2px; background-color: rgb(158, 158, 158); width: 4rem;  margin-top: 1.4rem;"></div>
-                        <div style="float: left; padding: 0 5px; margin-top: 9px; font-size: 16pt"><a href="/?&page=tworcy">O twórcach</a></div>
+            <fieldset class="fieldset">
+                <legend class="legenda">
+                    <div class="blok_g">
+                        <div class="tytul"><a href=""><?php echo $title;?></a></div>
+                        <div class="line1" style="<?php echo $line;?>"></div>
+                        <div class="href_dzik"><a href="/?&page=dzik">Zielony Dzik</a></div>
+                        <div class="line2"></div>
+                        <div class="href_fiveways"><a href="/?&page=fiveways">FiveWays RP</a></div>					
+                        <div class="line3"></div>
+                        <div class="href_tworcy"><a href="/?&page=tworcy">O twórcach</a></div>
                     </div>
                 </legend>	
 
@@ -74,6 +74,8 @@ $page = $_GET['page'] ?? 'dzik';
         ?>
 
     </div>
+
+    <div class="swiper-pagination"></div>
 </div>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.3.1/js/swiper.min.js"></script>
