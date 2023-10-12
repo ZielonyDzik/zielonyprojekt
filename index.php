@@ -21,7 +21,7 @@ $page = $_GET['page'] ?? 'dzik';
         if($page == 'dzik'){
             $photo = "dzik1.jpg";
             $title = "ZIELONY DZIK";
-            $line = "width: 39rem;";
+            $line = "width: 41rem;";
         } elseif($page == 'fiveways') {
             $photo = "fiveways.png";
             $title = "FIVEWAYS RP";
