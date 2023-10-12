@@ -13,7 +13,7 @@
 $a = new mysqli("localhost","root","","zielonyprojekt");
 $a->query("SET NAMES 'utf8'");
 $d = 0;
-if ($b=$a->query("SELECT id, nick, ranga, discord_id, data_dolaczenia, avatar, klasa FROM administracja;"))
+if ($b=$a->query("SELECT id, nick, ranga, discord_id, data_dolaczenia, avatar, klasa, id_rangi FROM administracja ORDER BY id_rangi ASC;"))
 {
     while($c=$b->fetch_assoc())
     {
