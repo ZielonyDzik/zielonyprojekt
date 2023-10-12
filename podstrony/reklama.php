@@ -9,7 +9,7 @@
                 <p class="text_title">💠 FiveWays - Serwer Roleplay 💠</p>
 <p class="text_title">Oferujemy:</p>
 <p class="p_text">
-<ul style="text-align:left;">
+<ul class="text_left">
     <li>vMenu</li>
     <li>Brak Ekonomii - możesz skupić się na odgrywaniu zamiast grindowaniu pieniędzy</li>
     <li>Addonowe auta (lore-friendly)</li>
