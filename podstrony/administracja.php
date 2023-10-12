@@ -7,7 +7,7 @@
         <section class="text">
         <p class="text_title" style="margin-top:0; margin-bottom: 5px;">💠 FiveWays - Administracja 💠</p>
     <table class="admin_table">
-    
+
     <tr>
     <?php
 $a = new mysqli("localhost","root","","zielonyprojekt");
@@ -25,11 +25,12 @@ if ($b=$a->query("SELECT id, nick, ranga, discord_id, data_dolaczenia, avatar, k
         }
     }
     $b->close();
+   
 }
 $a->close();
-
+    
     ?>
-    </tr>
+</tr>
     </table>
         </section>
             </td>
