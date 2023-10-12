@@ -9,7 +9,7 @@
                 <p class="text_title">🏡 Discord - Zielony Las 🏡</p>
 <p class="text_title">Oferujemy:</p>
 <p class="p_text">
-<ul style="text-align:left;">
+<ul class="text_left">
     <li>Strefę 4FUN;</li>
     <li>Możliwość rozmowy po przez chat tekstowy czy głosowy;</li>
     <li>Pomocną i aktywną administracje oraz moderację;</li>
@@ -21,11 +21,11 @@
 </ul>
 </p>    
 <p class="text_title">Potrzebujemy:</p>
-<p class="p_text" style="text-align: left">
-<ul style="text-align:left;">
+<p class="p_text" class="text_left">
+<ul class="text_left">
 <li>Fajnych osób do pogadania, czy popisania;</li>
 <li>Graczy, którzy uczestniczyli będą w streamach.</li>
-<br><br>
+<br>
 <li>Link do discorda [Zielony Las]: <a href="https://discord.gg/Nm6Kqzb">https://discord.gg/Nm6Kqzb</a></li>
 </ul>
 </p>
