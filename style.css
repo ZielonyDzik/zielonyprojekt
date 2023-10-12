@@ -6,7 +6,7 @@ body{
 
 *{
     box-sizing: border-box;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
 }
 
 .structure_table{
@@ -176,12 +176,40 @@ a:hover{
     color: #e20000;
 }
 
+.developer{
+    color: #ec7f16;
+}
+
+.senior_admin{
+    color: #ff1e1e;
+}
+
+.administrator{
+    color: #ff4848;
+}
+
+.junior_admin{
+    color: #ff6c6c;
+}
+
+.trial_admin{
+    color: #ffa6a6;
+}
+
+.senior_mod{
+    color: #007fff;
+}
+
 .moderator{
     color: #24a5ff;
 }
 
 .junior_mod{
     color: #43caff;
+}
+
+.trial_mod{
+    color: #97d6ff;
 }
 
 .duzy_kafel{
@@ -256,20 +284,24 @@ a:hover{
 .href_dzik{
     float: left; 
     padding: 0 5px; 
-    margin-top: 9px; 
+    margin-top: 12px; 
     font-size: 16pt;
 }
 
 .href_fiveways{
     float: left; 
     padding: 0 5px; 
-    margin-top: 9px; 
+    margin-top: 12px; 
     font-size: 16pt;
 }
 
 .href_tworcy{
     float: left; 
     padding: 0 5px; 
-    margin-top: 9px; 
+    margin-top: 12px; 
     font-size: 16pt;
+}
+
+.text_left{
+    text-align:left;
 }
