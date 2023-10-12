@@ -7,7 +7,7 @@
     <title>Zielony Projekt</title>
 </head>
 <body>
-
+<section class="blok">
 <?php
 $page = $_GET['page'] ?? 'dzik';
 ?>
@@ -96,5 +96,6 @@ var slider = new Swiper ('.swiper-container', {
          </td>
         </tr>
        </table>
+</section>
 </body>
 </html>
